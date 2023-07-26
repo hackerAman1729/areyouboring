@@ -134,6 +134,8 @@ particlesJS.load('particles-js', 'https://cdn.jsdelivr.net/particles.js/2.0.0/pa
   console.log('callback - particles.js config loaded');
 });
 
+
+
 function showMessage() {
   var message = document.getElementById("message");
   message.style.opacity = 0;
